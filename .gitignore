@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow Java files
+!*.java
+
+# Allow README
+!README.md
+
+# Allow .gitignore
+!.gitignore
