@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ CS2053 — JAVA LAB PROGRAMS  
+# 🌸 CS2053 — JAVA LAB PROGRAMS
 ### 🎓 *B.Sc Computer Science | RV University*  
 #### 👩‍💻 Author: **Nayana M**
 
