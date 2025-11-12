@@ -8,7 +8,6 @@
 
 </div>
 
-
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk)
@@ -20,6 +19,7 @@
 
 </div>
 
+---
 
 ## 🌸 Overview  
 
@@ -29,11 +29,12 @@ a collection of all **lab programs** completed as part of *RV University’s Jav
 This repository covers topics from **OOP fundamentals** to **Networking and GUI (Swing)**,  
 serving as a complete guide for hands-on Java learning 🚀  
 
+---
 
 ## 🧾 List of Java Lab Programs
 
-| 💡 Lab No. | 📄 File Name            | 🎯 Topic / Program Title |
-|:-----------:|:-----------------------|:-------------------------|
+| 💡 Lab No. | 📄 File Name | 🎯 Topic / Program Title |
+|:-----------:|:-------------|:-------------------------|
 | 1 | `LabSession1.java` | Basic Java Program – Input & Output |
 | 2 | `LabSession2.java` | Control Structures (if, switch, loops) |
 | 3 | `LabSession3.java` | Arrays and Strings |
@@ -47,6 +48,7 @@ serving as a complete guide for hands-on Java learning 🚀
 | 11 | `LabSession11.java` | File Handling in Java |
 | 12 | `LabSession12.java` | GUI Programming using Java Swing |
 
+---
 
 ## 🪄 Key Concepts Covered  
 
@@ -58,6 +60,7 @@ serving as a complete guide for hands-on Java learning 🚀
 - 🪟 **GUI Applications using Swing** — JFrame, JPanel, JButton, JTextField, etc.  
 - 🧮 **Data Structures** — Arrays, ArrayList  
 
+---
 
 ## 🧰 Tools & Environment  
 
@@ -69,14 +72,7 @@ serving as a complete guide for hands-on Java learning 🚀
 | 🪟 **Swing Library** | GUI Design |
 | 🐙 **GitHub** | Version Control |
 
-
-## 🚀 How to Run  
-
-# 1️⃣ Navigate to the specific lab folder
-cd LabSessionX
-🪟 For GUI (Swing) programs:
-Simply run the main .java file — no extra VM arguments needed ✅
-
+---
 ✨ Highlights
 
 🌻 Beginner-friendly, well-commented code
@@ -93,42 +89,10 @@ Simply run the main .java file — no extra VM arguments needed ✅
 🔹 GUI + Data Integration Projects
 
 <div align="center">
+
 👩‍💻 Author — Nayana M
-🎓 B.Sc Computer Science | RV University
-
-
-⭐ “Coding in Java is like brewing coffee — patience makes perfection.” ☕💭
-
-</div> ```
-
-# 2️⃣ Compile the Java program
-javac ProgramName.java
-
-# 3️⃣ Run the program
-java ProgramName
-🪟 For GUI (Swing) programs:
-Simply run the main .java file — no extra VM arguments needed ✅
-
-✨ Highlights
-
-🌻 Beginner-friendly, well-commented code
-🎯 Clean structure with real-world inspired problems
-📘 Works on any system with JDK installed
-💬 Consistent naming & indentation
-🧩 Organized per lab session
-
-🧩 Future Additions
-
-🔹 Mini Projects using File Handling & Networking
-🔹 Database Connectivity (JDBC)
-🔹 Advanced Event Handling
-🔹 GUI + Data Integration Projects
-
-<div align="center">
-👩‍💻 Author — Nayana M
-
 🎓 B.Sc Computer Science | RV University
 
 ⭐ “Coding in Java is like brewing coffee — patience makes perfection.” ☕💭
 
-</div> 
+</div>
