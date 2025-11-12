@@ -49,6 +49,7 @@ serving as a complete guide for hands-on Java learning 🚀
 | 10 | `LabSession10` | Networking (TCP Client-Server Chat) | 
 | 11 | `LabSession11` | File I/O + Exception Handling + Packages |
 | 12 | `LabSession12_GUI` | GUI Programming using **Swing** | 
+
 ---
 
 ## 🪄 Key Concepts Covered  
