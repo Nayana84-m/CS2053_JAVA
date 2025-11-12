@@ -93,6 +93,5 @@ serving as a complete guide for hands-on Java learning 🚀
 👩‍💻 Author — Nayana M
 🎓 B.Sc Computer Science | RV University
 
-⭐ “Coding in Java is like brewing coffee — patience makes perfection.” ☕💭
 
 </div>
