@@ -33,22 +33,22 @@ serving as a complete guide for hands-on Java learning 🚀
 
 ---
 
-## 📂 Folder Structure & Topics  
+## 🧾 List of Java Lab Programs
 
-| 🧾 Lab No | 📁 File/Folder Name | 🧩 Topic / Concept | 
-|:--:|:--|:--|:--|
-| 01 | `LabSession1` | Basic Java Syntax, Variables, Loops |
-| 02 | `LabSession2` | Arrays and Methods | 
-| 03 | `LabSession3` | Classes & Objects | 
-| 04 | `LabSession4` | Constructors & Method Overloading | 
-| 05 | `LabSession5` | Inheritance & Polymorphism |
-| 06 | `LabSession6` | Abstract Classes & Interfaces |
-| 07 | `LabSession7` | Exception Handling | 
-| 08 | `LabSession8` | File Handling (I/O Streams) | 
-| 09 | `LabSession9` | Packages & Access Modifiers | 
-| 10 | `LabSession10` | Networking (TCP Client-Server Chat) | 
-| 11 | `LabSession11` | File I/O + Exception Handling + Packages |
-| 12 | `LabSession12_GUI` | GUI Programming using **Swing** | 
+| 💡 Lab No. | 📄 File Name            | 🎯 Topic / Program Title |
+|:-----------:|:-----------------------|:-------------------------|
+| 1 | `LabSession1.java` | Basic Java Program – Input & Output |
+| 2 | `LabSession2.java` | Control Structures (if, switch, loops) |
+| 3 | `LabSession3.java` | Arrays and Strings |
+| 4 | `LabSession4.java` | Classes and Objects |
+| 5 | `LabSession5.java` | Inheritance and Polymorphism |
+| 6 | `LabSession6.java` | Abstract Classes and Interfaces |
+| 7 | `LabSession7.java` | Exception Handling |
+| 8 | `LabSession8.java` | Packages and Access Modifiers |
+| 9 | `LabSession9.java` | Multithreading |
+| 10 | `LabSession10.java` | Networking – TCP Client-Server Chat |
+| 11 | `LabSession11.java` | File Handling in Java |
+| 12 | `LabSession12.java` | GUI Programming using Java Swing |
 
 ---
 
@@ -113,3 +113,29 @@ javac ProgramName.java
 
 # 3️⃣ Run the program
 java ProgramName
+🪟 For GUI (Swing) programs:
+Simply run the main .java file — no extra VM arguments needed ✅
+
+✨ Highlights
+
+🌻 Beginner-friendly, well-commented code
+🎯 Clean structure with real-world inspired problems
+📘 Works on any system with JDK installed
+💬 Consistent naming & indentation
+🧩 Organized per lab session
+
+🧩 Future Additions
+
+🔹 Mini Projects using File Handling & Networking
+🔹 Database Connectivity (JDBC)
+🔹 Advanced Event Handling
+🔹 GUI + Data Integration Projects
+
+<div align="center">
+👩‍💻 Author — Nayana M
+
+🎓 B.Sc Computer Science | RV University
+
+⭐ “Coding in Java is like brewing coffee — patience makes perfection.” ☕💭
+
+</div> ```
