@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -21,7 +20,6 @@
 
 </div>
 
----
 
 ## 🌸 Overview  
 
@@ -31,7 +29,6 @@ a collection of all **lab programs** completed as part of *RV University’s Jav
 This repository covers topics from **OOP fundamentals** to **Networking and GUI (Swing)**,  
 serving as a complete guide for hands-on Java learning 🚀  
 
----
 
 ## 🧾 List of Java Lab Programs
 
@@ -50,7 +47,6 @@ serving as a complete guide for hands-on Java learning 🚀
 | 11 | `LabSession11.java` | File Handling in Java |
 | 12 | `LabSession12.java` | GUI Programming using Java Swing |
 
----
 
 ## 🪄 Key Concepts Covered  
 
@@ -62,7 +58,6 @@ serving as a complete guide for hands-on Java learning 🚀
 - 🪟 **GUI Applications using Swing** — JFrame, JPanel, JButton, JTextField, etc.  
 - 🧮 **Data Structures** — Arrays, ArrayList  
 
----
 
 ## 🧰 Tools & Environment  
 
@@ -74,11 +69,9 @@ serving as a complete guide for hands-on Java learning 🚀
 | 🪟 **Swing Library** | GUI Design |
 | 🐙 **GitHub** | Version Control |
 
----
 
 ## 🚀 How to Run  
 
-```bash
 # 1️⃣ Navigate to the specific lab folder
 cd LabSessionX
 🪟 For GUI (Swing) programs:
@@ -138,4 +131,4 @@ Simply run the main .java file — no extra VM arguments needed ✅
 
 ⭐ “Coding in Java is like brewing coffee — patience makes perfection.” ☕💭
 
-</div> ```
+</div> 
